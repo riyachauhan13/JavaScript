@@ -1,4 +1,4 @@
-//let a= "hello"
+
 //console.log(typeof a)
 let number="544"
 if(number<5){
